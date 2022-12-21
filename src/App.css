@@ -1,0 +1,372 @@
+.Box img{
+  width: 140px;
+  height: 60px;
+  margin-left: 10px;
+}
+#flo{
+  margin-left: 1200px;
+  width: 20px;
+  height: 20px;
+  margin-top: -39px;
+}
+#gry{
+  margin-left: 1240px;
+  width: 20px;
+  height: 20px; 
+  margin-top: -20px;
+ 
+ 
+}
+
+#pink {
+  margin-top: 10px;
+  background-color: #e4e6eb;
+  color:  black;
+  font-weight: bold;
+ 
+}
+
+.gry button{
+  background-color: #1b74e4;
+  margin-left: 900px;
+  color: white;
+  width: 150px;
+  height: 30px;
+  border: #1b74e4;
+  cursor: pointer;
+}
+#black{
+  width: 70%;
+  height: 400px;
+  margin-left: 180px;
+ margin-top: 50px;
+
+}
+.gry {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+img{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.gry img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-left: 234px;
+
+}
+
+.gry h1{
+  margin-left: 446px;
+  margin-top: -186px;
+}
+
+.hero nav{
+  width: 49%;
+  min-width: 600px;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -240px;
+ margin-left: 160px;
+ padding: 7px;
+ cursor: pointer;
+ text-decoration: none;
+
+}
+.hero nav :hover{
+  color: #1b74e4;
+}
+.hero nav a{
+  text-decoration: none;
+  font-size: 15px;
+  font-family: sans-serif;
+  text-transform: capitalize;
+  color: rgb(151, 147, 147);
+  position: relative;
+  font-weight: bold;
+  margin-left: 4px;
+}
+
+
+
+.hero h3{
+  margin-top: -242px;
+  margin-left: 643px;
+}
+#green{
+  margin-top: -320px;
+  margin-left: 321px;
+  padding: 20px;
+  background-color: white;
+  width: 82px;
+    margin-left: 2px;
+ 
+}
+.book{
+  background-color: rgb(240,242 , 245,1);
+margin-top: -20px;
+padding: 20px;
+}
+.food{
+  background-color: white;
+  width: 272px;
+    margin-left: 249px;
+    padding: 20px;
+    height: 387px;
+    margin-top: -320px;
+}
+
+.dom{
+  background-color: white;
+  width: 311px;
+  margin-left: -70px;
+  height:417px;
+
+}
+.yallow button{
+  margin-left: 26px;
+  margin-top: -27px;
+  width: 258px;
+  height: 30px;
+background-color:#e4e6eb;
+border:#e4e6eb;
+color: black;
+font-weight: bold;
+}
+.yallow p{
+  margin-left: 50px;
+  background-color: white;
+  width: 259px;
+  height: 50px;
+    
+
+}
+.ball{
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  background-color: white;
+  width: 73px;
+    height: 200px;
+    margin-left: 236px;
+    margin-top:-3px;
+}
+
+
+.ball button{
+  margin-bottom: 20px;
+  background-color:  #e4e6eb;
+  color: black;
+  border: #626364;
+  margin-top: 9px;
+  margin-left: -210px;
+  width: 258px;
+  font-weight: bold;
+}
+.yallow img{
+  width: 20px;
+  height: 19px;
+  margin-top: -65px;
+  margin-left: 21px;
+
+    color: #b8a2a0;
+  }
+ 
+ 
+
+.blom{
+  background-color: white;
+  width: 271px;
+    margin-left: 2px;
+}
+
+
+.food h3{
+  margin-left: 
+  -4px;
+  margin-top: -12px;
+  cursor: pointer;
+}
+.food img{
+  width: 300px;
+  height: 370px;
+  margin-top: 10px;
+  margin-left: -11px;
+}
+
+
+.food p{
+  color: #1b74e4;
+  margin-left: 143px;
+  margin-top: -44px;
+  cursor: pointer;;
+}
+.food :hover{ color: #626364;}
+.card{
+  
+  background-color: white;
+  width: 312px;
+    margin-left: 249px;
+    margin-top: 17px;
+}
+.card h3{
+  
+  margin-left: 15px;
+  cursor: pointer;
+}
+.card  :hover{ color: #626364;}
+
+.card img{
+  width: 300px;
+  height: 370px;
+  margin-top: 10px;
+  margin-left: 9px;
+}
+.card p{
+  color: #1b74e4;
+  margin-left: 180px;
+  margin-top: -40px;
+  cursor: pointer;
+}
+.pool{
+  background-color:rgb(240,242 , 245,1);
+  padding: 340px;
+  margin-top: -322px;
+}
+
+
+ 
+
+
+.orange img{
+  height: 41px;
+    width: 44px;
+    border-radius: 50%;
+    margin-top: -1313px;
+    margin-left: 21px;
+    padding: 12px;
+}
+
+.orange{
+  background-color: white;
+  width: 446px;
+  margin-left:614px ;
+  height: 114px;
+}
+.orange h4{
+  margin-top: 3px;
+  margin-left: 55px;
+  color: rgb(151, 147, 147);
+}
+#brown{
+  margin-left: 325px;
+  margin-top: -42px;
+}
+
+.main img{
+  width: 35px;
+  height: 35px;
+  margin-left: 632px;
+    margin-top: -52px;
+}
+#per{
+  margin-left: 902px;
+  margin-top: -34px;
+}
+.tt h4{
+  margin-left: 90px;
+  margin-top: -47px;
+}
+.tt img{
+  height: 41px;
+  width: 44px;
+  margin-left: 26px;
+  margin-top: 40px;
+  border-radius: 50%;
+  padding: 7px;
+}
+.tt p{
+  color:rgb(151, 147, 147);
+  margin-left: 90px;
+  margin-top: -20px;
+  font-size: 14px;
+}
+.tt{
+  background-color: white;
+  width: 446px;
+  margin-left:614px ;
+  height: 340px;
+}
+#fifo{
+  margin-left: 20px;
+}
+#lam{
+  width: 20px;
+  height: 20px;
+  margin-top: 4px;
+}
+#law{
+  margin-top: 4px;
+  margin-left: 52px;
+}
+#waw{
+  margin-top: -34px;
+    margin-left: 317px;
+}
+#fow{
+  margin-top: -32px;
+  margin-left: 177px;
+}
+#yal{
+  width: 20px;
+  height: 20px;
+  margin-top: 4px;
+  margin-left: 91px;
+}
+.blanc img{
+  height: 41px;
+  width: 44px;
+  margin-left: 21px;
+  margin-top: 23px;
+  border-radius: 50%;
+  padding: 7px;
+}
+#fika{
+  width: 363px;
+  height: 177px;
+  border-radius:0%;
+  margin-left: 29px;
+  margin-top: -14px;
+}
+.blanc h4{
+
+  margin-left: 85px;
+  margin-top: -47px;
+}
+.blanc p{
+  color:rgb(151, 147, 147);
+  margin-left: 85px;
+  margin-top: -20px;
+  font-size: 14px;
+}
+.blanc{
+  background-color: white;
+  width: 446px;
+  margin-left:614px ;
+  height: 324px;
+}
+.blanc h6{
+  margin-left: 15px;
+  margin-top: -24px;
+}
